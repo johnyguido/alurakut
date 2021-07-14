@@ -1,7 +1,8 @@
-import Maingrid from './src/components/MainGrid'
-import Box from './src/components/Box'
-import { AlurakutMenu, OrkutNostalgicIconSet } from './src/lib/AluraKutCommons';
-import { ProfileRelationsBoxWrapper } from './src/components/ProfileRelations';
+import Maingrid from '../src/components/MainGrid'
+import Box from '../src/components/Box'
+import { AlurakutMenu, OrkutNostalgicIconSet } from '../src/lib/AluraKutCommons'
+import { ProfileRelationsBoxWrapper } from '../src/components/ProfileRelations'
+
 
 /* const Title = styled.h1`
   font-size: 50px;
